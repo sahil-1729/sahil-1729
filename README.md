@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=sahil-1729&theme=blueberry-duo)](https://git.io/streak-stats)
 
 <h2 align="left">Hi 👋! My name is Sahil and I'm a web developer </h2>
 
@@ -103,5 +102,6 @@
 </div>
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com?user=sahil-1729&theme=blueberry-duo&card_width=1000)](https://git.io/streak-stats)
 
 
