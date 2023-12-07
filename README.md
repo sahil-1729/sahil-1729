@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sahil and I'm a web developer</h2>
+<h2 align="left">Hi 👋! My name is Sahil and I'm a web developer </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/jj1xut6ZsokKI/giphy.gif"  />
 
 ###
 
@@ -86,19 +86,5 @@
 </div>
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sahil-1729)](https://git.io/streak-stats)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sahil-1729/sahil-1729/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
