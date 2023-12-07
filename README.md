@@ -1,5 +1,20 @@
 <h2 align="left">Hi 👋! My name is Sahil and I'm a web developer </h2>
 
+- 🔭 I’m currently working on **Portfolio**
+
+- 🌱 I’m currently learning **React Native**
+
+- 👯 I’m looking to collaborate on **Web development projects**
+
+- 🤝 I’m looking for help with **Web developers**
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **sahil.maji@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1vJAuZnjMaSc06ytbmik1xHMox0bkQHco?usp=drive_link](https://drive.google.com/drive/folders/1vJAuZnjMaSc06ytbmik1xHMox0bkQHco?usp=drive_link)
+
+- ⚡ Fun fact **I can watch anime all day**
 ###
 
 <div align="center">
@@ -87,4 +102,5 @@
 
 ###
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sahil-1729)](https://git.io/streak-stats)
+
 
